@@ -1,0 +1,78 @@
+field: e2e7b70d-6b78-4367-a3b0-5287688756fa # Recipe Contents
+fieldLayouts:
+  4fb33aa9-3400-4c5d-b377-2edf226973a8:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 71070645-30e1-41d4-9bbb-b2ebc3f79572 # Ingredients
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 68e3cc12-996a-4792-89d5-7b8f014e3c91
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: c8937502-32ba-4f55-9889-2b146d5cd3f3
+        userCondition: null
+fields:
+  71070645-30e1-41d4-9bbb-b2ebc3f79572: # Ingredients
+    columnSuffix: umunodsf
+    contentColumnType: text
+    fieldGroup: null
+    handle: ingredients
+    instructions: null
+    name: Ingredients
+    searchable: false
+    settings:
+      addRowLabel: 'Add a row'
+      columnType: text
+      columns:
+        __assoc__:
+          -
+            - col1
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Amount
+                -
+                  - handle
+                  - amount
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+          -
+            - col2
+            -
+              __assoc__:
+                -
+                  - heading
+                  - Ingredient
+                -
+                  - handle
+                  - ingredient
+                -
+                  - width
+                  - ''
+                -
+                  - type
+                  - singleline
+      defaults: null
+      maxRows: null
+      minRows: null
+      staticRows: false
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Table
+handle: recipeIngredients
+name: 'Recipe Ingredients'
+sortOrder: 5

@@ -1,4 +1,4 @@
-dateModified: 1695329680
+dateModified: 1695333905
 email:
   fromEmail: kate.stretton@platocreative.co.nz
   fromName: craftycoffee
@@ -14,27 +14,43 @@ fs:
 meta:
   __names__:
     0b8c3acf-2a4f-48f5-a154-c3f3747bd169: craftycoffee # craftycoffee
+    1f6a156e-1db3-44c7-9ded-39339f8390b0: Recipes # Recipes
+    2e12d3c4-fabc-44a2-a889-45a7d07cb32b: 'Tip Content' # Tip Content
     2ee61b3e-b7ab-4366-8571-cb97794c9bd8: 'Public Schema' # Public Schema
+    3d8ede2b-3c0a-4947-a3a7-e6ea03e3110e: 'Recipe Ingredients' # Recipe Ingredients
     5f7dbe2d-7f53-4809-9c1f-e0ca7d1dc70a: 'About Craft Coffee' # About Craft Coffee
     6e54d5fd-e3e2-4d79-88f7-030cf8251024: Common # Common
     6fb714aa-68ab-4bfd-8c04-01c1c02c7b31: News # News
     8f07b957-3319-4804-ae6a-4888ba4c1891: 'Date Added' # Date Added
     8fa7dd00-3f97-4d93-83e9-3e303b5b76f0: 'News Body' # News Body
     9b844db6-8550-46df-8a12-a7f57081dd42: News # News
+    9db8cbe3-f558-4591-907f-e15948ec2193: 'Recipe Steps' # Recipe Steps
+    9e9d3a3e-ff5f-4bd5-9183-cf66f813f9c1: 'Body Content' # Body Content
+    43fdb54f-db3c-413c-92df-25ae5412022f: 'Steps Title' # Steps Title
     096bf9e5-a1fe-44e5-a1cf-6c749ee0f69f: Drinks # Drinks
     262a7b35-583a-4d47-aefb-1e0227f60a90: 'About Crafty Coffee' # About Crafty Coffee
+    762a1c5e-2399-42cb-afa8-135f0d076e62: 'Recipe Copy' # Recipe Copy
+    781ed780-e47c-4589-afee-6aa2faae2fda: Recipes # Recipes
+    1927b36e-a46c-4a8a-a2b0-008e657554f2: Image # Image
     4817b4ec-c677-446f-9fd1-dc5973b84341: craftycoffee # craftycoffee
     4841ffaa-e6cf-4c07-8b50-ade1d5dadb22: 'Drink Image' # Drink Image
     5356ddf1-2f00-4039-8da3-ff44b9a95d36: Drinks # Drinks
     60201c11-5efb-46ce-9ee3-1dcf37519019: Homepage # Homepage
     0449064c-a70d-4dab-b387-b3465c91abdd: Introduction # Introduction
+    71070645-30e1-41d4-9bbb-b2ebc3f79572: Ingredients # Ingredients
     80302083-9c32-4c17-8262-f43f7cc66b55: 'Page Intro' # Page Intro
     a12fd5db-69eb-452c-b5f8-fdb5a5b0663c: '840x200 Thumb' # 840x200 Thumb
+    aa9c6180-a555-4f59-809f-1f1098b8a64c: Recipes # Recipes
     b4a7fc6f-fa65-4549-acef-8f29fc2bec5a: Excerpt # Excerpt
     b84e397a-0266-493c-9c38-b7f47b0ffeac: News # News
     bbaf12ed-56e6-49eb-880e-2a03f5dc86bb: 'Page Copy' # Page Copy
+    c4cd97ce-a70a-4177-b089-b9171ff6155d: 'Image Caption' # Image Caption
+    c353dad1-2ea9-4901-9fad-a150656e1dfb: 'Recipe Tip' # Recipe Tip
     cfd26958-4ad4-4ba7-b535-39f49305125c: Drinks # Drinks
     d7b1fdd8-6cdd-4245-bc99-a60a7955bccf: Drinks # Drinks
+    de664fed-a6a1-4507-b872-8b330ea95a9f: 'Steps Content' # Steps Content
+    e2e7b70d-6b78-4367-a3b0-5287688756fa: 'Recipe Contents' # Recipe Contents
+    ed8526cb-3b4d-4645-a672-2047f87be41a: 'Recipe Image' # Recipe Image
     ee168fd8-9e56-483b-aed8-cbfce1fe1c80: About # About
     fc47bbf6-7571-4c82-9c3c-b3227603ebb1: Homepage # Homepage
     fdd40d5e-807e-46bb-a6ee-fa8aed786adf: Subtitle # Subtitle
