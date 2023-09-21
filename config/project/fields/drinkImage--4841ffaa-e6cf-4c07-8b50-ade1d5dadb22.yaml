@@ -12,7 +12,7 @@ settings:
   allowedKinds:
     - image
   branchLimit: null
-  defaultUploadLocationSource: 'volume:930a5406-9abf-434c-9ada-1613a346f286'
+  defaultUploadLocationSource: 'volume:d7b1fdd8-6cdd-4245-bc99-a60a7955bccf' # Drinks
   defaultUploadLocationSubpath: null
   localizeRelations: false
   maintainHierarchy: false
@@ -22,7 +22,7 @@ settings:
   restrictFiles: true
   restrictLocation: false
   restrictedDefaultUploadSubpath: null
-  restrictedLocationSource: 'volume:930a5406-9abf-434c-9ada-1613a346f286'
+  restrictedLocationSource: 'volume:d7b1fdd8-6cdd-4245-bc99-a60a7955bccf' # Drinks
   restrictedLocationSubpath: null
   selectionCondition:
     __assoc__:
@@ -36,11 +36,11 @@ settings:
         - class
         - craft\elements\conditions\assets\AssetCondition
   selectionLabel: 'Add a drink image'
-  showSiteMenu: false
+  showSiteMenu: true
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
   sources:
-    - 'volume:930a5406-9abf-434c-9ada-1613a346f286'
+    - 'volume:d7b1fdd8-6cdd-4245-bc99-a60a7955bccf' # Drinks
   targetSiteId: null
   validateRelatedElements: false
   viewMode: large
