@@ -1,0 +1,19 @@
+columnSuffix: jowlytuh
+contentColumnType: text
+fieldGroup: 4a4122f9-b718-48d3-ae5c-1cac7f2f959a # Styles
+handle: styleDescription
+instructions: null
+name: 'Style Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

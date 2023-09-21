@@ -1,4 +1,17 @@
-dateModified: 1695333905
+dateModified: 1695338295
+elementSources:
+  craft\elements\Category:
+    -
+      defaultSort:
+        - structure
+        - asc
+      disabled: false
+      key: 'group:cc1e4195-e66d-4e7a-a1a1-4ba41a768a50' # Drink Styles
+      tableAttributes:
+        - link
+        - uri
+        - 'field:6ab61fe6-d527-407e-aeff-650481b22cd7' # Style Description
+      type: native
 email:
   fromEmail: kate.stretton@platocreative.co.nz
   fromName: craftycoffee
@@ -18,7 +31,9 @@ meta:
     2e12d3c4-fabc-44a2-a889-45a7d07cb32b: 'Tip Content' # Tip Content
     2ee61b3e-b7ab-4366-8571-cb97794c9bd8: 'Public Schema' # Public Schema
     3d8ede2b-3c0a-4947-a3a7-e6ea03e3110e: 'Recipe Ingredients' # Recipe Ingredients
+    4a4122f9-b718-48d3-ae5c-1cac7f2f959a: Styles # Styles
     5f7dbe2d-7f53-4809-9c1f-e0ca7d1dc70a: 'About Craft Coffee' # About Craft Coffee
+    6ab61fe6-d527-407e-aeff-650481b22cd7: 'Style Description' # Style Description
     6e54d5fd-e3e2-4d79-88f7-030cf8251024: Common # Common
     6fb714aa-68ab-4bfd-8c04-01c1c02c7b31: News # News
     8f07b957-3319-4804-ae6a-4888ba4c1891: 'Date Added' # Date Added
@@ -29,6 +44,7 @@ meta:
     43fdb54f-db3c-413c-92df-25ae5412022f: 'Steps Title' # Steps Title
     096bf9e5-a1fe-44e5-a1cf-6c749ee0f69f: Drinks # Drinks
     262a7b35-583a-4d47-aefb-1e0227f60a90: 'About Crafty Coffee' # About Crafty Coffee
+    709c21b3-23ae-4880-a86c-e4fc81e3807b: 'Drink Style' # Drink Style
     762a1c5e-2399-42cb-afa8-135f0d076e62: 'Recipe Copy' # Recipe Copy
     781ed780-e47c-4589-afee-6aa2faae2fda: Recipes # Recipes
     1927b36e-a46c-4a8a-a2b0-008e657554f2: Image # Image
@@ -46,6 +62,7 @@ meta:
     bbaf12ed-56e6-49eb-880e-2a03f5dc86bb: 'Page Copy' # Page Copy
     c4cd97ce-a70a-4177-b089-b9171ff6155d: 'Image Caption' # Image Caption
     c353dad1-2ea9-4901-9fad-a150656e1dfb: 'Recipe Tip' # Recipe Tip
+    cc1e4195-e66d-4e7a-a1a1-4ba41a768a50: 'Drink Styles' # Drink Styles
     cfd26958-4ad4-4ba7-b535-39f49305125c: Drinks # Drinks
     d7b1fdd8-6cdd-4245-bc99-a60a7955bccf: Drinks # Drinks
     de664fed-a6a1-4507-b872-8b330ea95a9f: 'Steps Content' # Steps Content
