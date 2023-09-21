@@ -1,0 +1,70 @@
+fieldLayouts:
+  071e789f-779b-453d-b1e4-8638e39c4660:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: Headline
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: f38aa8a3-65cf-465d-b2b8-548df0f1af18
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b4a7fc6f-fa65-4549-acef-8f29fc2bec5a # Excerpt
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 771980b0-c4dd-4cbf-a1b1-429360a05c45
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 8fa7dd00-3f97-4d93-83e9-3e303b5b76f0 # News Body
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: fa25ff02-202e-4495-acac-55a61ba9646b
+            userCondition: null
+            warning: null
+            width: 100
+        name: News
+        uid: c1279009-191f-4f90-94b8-612c411dc362
+        userCondition: null
+handle: news
+hasTitleField: true
+name: News
+section: b84e397a-0266-493c-9c38-b7f47b0ffeac # News
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

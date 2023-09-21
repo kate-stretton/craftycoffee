@@ -1,0 +1,19 @@
+columnSuffix: tmdjnsle
+contentColumnType: text
+fieldGroup: 5356ddf1-2f00-4039-8da3-ff44b9a95d36 # Drinks
+handle: introduction
+instructions: 'Short sentence at top of drink page.'
+name: Introduction
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

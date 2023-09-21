@@ -1,0 +1,27 @@
+columnSuffix: cffrtzib
+contentColumnType: text
+fieldGroup: 6fb714aa-68ab-4bfd-8c04-01c1c02c7b31 # News
+handle: newsBody
+instructions: null
+name: 'News Body'
+searchable: true
+settings:
+  availableTransforms: ''
+  availableVolumes: ''
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

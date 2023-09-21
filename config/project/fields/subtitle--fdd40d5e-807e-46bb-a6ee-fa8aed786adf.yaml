@@ -1,0 +1,19 @@
+columnSuffix: febmdgae
+contentColumnType: text
+fieldGroup: ee168fd8-9e56-483b-aed8-cbfce1fe1c80 # About
+handle: subtitle
+instructions: null
+name: Subtitle
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

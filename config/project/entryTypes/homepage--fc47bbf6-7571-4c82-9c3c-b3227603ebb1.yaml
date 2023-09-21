@@ -1,0 +1,58 @@
+fieldLayouts:
+  a08c7b93-43a1-42f5-a366-b69514761645:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: 'Homepage Title'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 789586f0-1ede-42ba-a65e-91b7856eae76
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: fdd40d5e-807e-46bb-a6ee-fa8aed786adf # Subtitle
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 82fb4e5e-967a-426c-90f9-542b08fa1d61
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1bcd7e4b-eecb-47c1-aa38-123506716bab
+        userCondition: null
+handle: homepage
+hasTitleField: true
+name: Homepage
+section: 60201c11-5efb-46ce-9ee3-1dcf37519019 # Homepage
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

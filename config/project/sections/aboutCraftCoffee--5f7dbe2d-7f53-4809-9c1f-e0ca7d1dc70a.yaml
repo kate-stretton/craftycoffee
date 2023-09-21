@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+handle: aboutCraftCoffee
+name: 'About Craft Coffee'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  4817b4ec-c677-446f-9fd1-dc5973b84341: # craftycoffee
+    enabledByDefault: true
+    hasUrls: true
+    template: about/_entry
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: null
+  uid: 0e076bbf-ced5-44f1-b264-ea8be453e3fb
+type: structure

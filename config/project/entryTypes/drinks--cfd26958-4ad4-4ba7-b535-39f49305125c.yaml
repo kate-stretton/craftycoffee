@@ -1,0 +1,82 @@
+fieldLayouts:
+  f8728864-ade6-4852-b800-e23fa6cbfb24:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: 'Drink Name'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 5f4cb6cd-be70-4686-97c6-cf082f52c4e1
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 0449064c-a70d-4dab-b387-b3465c91abdd # Introduction
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7472b6d1-7be8-4b09-b48c-0fe52021be63
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: bbaf12ed-56e6-49eb-880e-2a03f5dc86bb # Page Copy
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d4d72f6b-3362-4885-8a32-a94acb3b013e
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 4841ffaa-e6cf-4c07-8b50-ade1d5dadb22 # Drink Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 6c73fff4-8113-4c03-aa31-158edba2c3a5
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Drink Details'
+        uid: 01b5ae52-e58c-4034-942e-815ff7595fec
+        userCondition: null
+handle: drinks
+hasTitleField: true
+name: Drinks
+section: 096bf9e5-a1fe-44e5-a1cf-6c749ee0f69f # Drinks
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
