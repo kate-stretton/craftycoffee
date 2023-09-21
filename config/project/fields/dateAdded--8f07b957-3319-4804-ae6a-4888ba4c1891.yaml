@@ -1,0 +1,17 @@
+columnSuffix: sbpjrtoz
+contentColumnType: datetime
+fieldGroup: 5356ddf1-2f00-4039-8da3-ff44b9a95d36 # Drinks
+handle: dateAdded
+instructions: null
+name: 'Date Added'
+searchable: false
+settings:
+  max: '2033-03-31T00:00:00-07:00'
+  min: '2000-04-01T00:00:00-08:00'
+  minuteIncrement: 30
+  showDate: true
+  showTime: false
+  showTimeZone: false
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Date
