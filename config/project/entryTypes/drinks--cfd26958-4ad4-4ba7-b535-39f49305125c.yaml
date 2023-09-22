@@ -90,6 +90,18 @@ fieldLayouts:
             userCondition: null
             warning: null
             width: 100
+          -
+            elementCondition: null
+            fieldUid: 9eb25abb-8820-479e-b5dc-cfb341670eb5 # Drink Recipe 
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1fff2219-d4f2-4d55-b970-ecd9d0371435
+            userCondition: null
+            warning: null
+            width: 100
         name: 'Drink Details'
         uid: 01b5ae52-e58c-4034-942e-815ff7595fec
         userCondition: null

@@ -18,6 +18,10 @@
             <p>{{ entry.introduction }}</p>
         </div>
 		{{ entry.pageCopy }}
+        {% set drinkRecipe = entry.drinkRecipe.one() %}
+        {% if drinkRecipe %}
+        <p><a href="{{ drinkRecipe.url }}" class="button primary small radius">Make <i>{{ entry.title }}</i> at Home</a></p>
+        {% endif %}
 
     </div>
 </div>
